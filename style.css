@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  height: 100svh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.display {
+  display: flex;
+}
+
+.display {
+  background-color: aqua;
+}
+
+.calculator {
+  display: flex;
+}
